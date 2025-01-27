@@ -25,3 +25,6 @@ Przed uruchomieniem aplikacji należy:
 - Django korzysta z arkuszy stylów udostępnianych przez Bootstrap 4 dlatego konieczna jest instalacja pakietu django-bootstrap4
 > pip3 install django-bootstrap4
 - Silnik wpinamy do portu oznaczonego jako D5
+
+## Interfejs
+Interfejs użytkownika posiada cztery przyciski, które umożliwiają sterowanie silnikiem. Prezentowana wersja, zawierają podstawową funkcjonalność, stanowiącą bazę do dalszego rozwoju. Przykładem zastosowania może być automatyka przemysłowa.
