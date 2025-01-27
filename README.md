@@ -1,2 +1,2 @@
 # django-grove
-Integrate Django with servos and sensor from Grove family
+Integrate Django with servos and sensors from Grove family
