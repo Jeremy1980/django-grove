@@ -24,3 +24,4 @@ Przed uruchomieniem aplikacji należy:
 > sudo usermod -a -G gpio www-data
 - Django korzysta z arkuszy stylów udostępnianych przez Bootstrap 4 dlatego konieczna jest instalacja pakietu django-bootstrap4
 > pip3 install django-bootstrap4
+- Silnik wpinamy do portu oznaczonego jako D5
